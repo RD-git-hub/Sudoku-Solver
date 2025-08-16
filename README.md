@@ -34,18 +34,24 @@ How to Run:
 Usage:
 
 Option 1: Enter values manually into the puzzle.
+
 Option 2: Solve the puzzle and display the complete solution.
+
 Option 3: Exit the application.
 
 Technologies Used:
 
 Java
+
 Console-based I/O
+
 Backtracking algorithm
 
 Learnings:
 
 Implementation of backtracking to solve constraint-based problems.
+
 Handling user input and validating moves in a console application.
+
 Generating random Sudoku puzzles and managing game state.
 
