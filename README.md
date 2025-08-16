@@ -31,6 +31,7 @@ How to Run:
 	java SudokuSolverSimple
 
 
+
 Usage:
 
 Option 1: Enter values manually into the puzzle.
@@ -39,6 +40,7 @@ Option 2: Solve the puzzle and display the complete solution.
 
 Option 3: Exit the application.
 
+
 Technologies Used:
 
 Java
@@ -46,6 +48,7 @@ Java
 Console-based I/O
 
 Backtracking algorithm
+
 
 Learnings:
 
